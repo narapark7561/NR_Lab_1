@@ -1,0 +1,14 @@
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.AssemblyInfoInputs.cache
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.AssemblyInfo.cs
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\bin\Debug\net8.0\NR_Lab_1.exe
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\bin\Debug\net8.0\NR_Lab_1.deps.json
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\bin\Debug\net8.0\NR_Lab_1.runtimeconfig.json
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\bin\Debug\net8.0\NR_Lab_1.dll
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\bin\Debug\net8.0\NR_Lab_1.pdb
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.dll
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\refint\NR_Lab_1.dll
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.pdb
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\NR_Lab_1.genruntimeconfig.cache
+C:\Users\narapark7561\Desktop\SECOND SEMESTER\CPRG211\oop2 Labs\Lab_1\NR_Lab_1\NR_Lab_1\obj\Debug\net8.0\ref\NR_Lab_1.dll
